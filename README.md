@@ -77,10 +77,9 @@ Contributions are welcome! 🎉 If you'd like to improve the project:
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-For questions or collaborations:
-- **Your Name**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+## 👤 Author
+**Kiran Sakthivel**  
+GitHub: [@kiran1201w](https://github.com/kiran1201w)
 
 ---
 **🚀 Enjoy analyzing LIDAR and radar sensor data! 🌟**
